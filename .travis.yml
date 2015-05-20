@@ -2,4 +2,4 @@ language: c
 compiler:
   - gcc
 # Change this to your needs
-script: ./configure && make
+script: gcc joc1.c -o output 

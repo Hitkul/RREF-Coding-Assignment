@@ -189,6 +189,7 @@ void print(int o,int p,float a[100][100])
 
 void swap(int p,int i,int flag, float m[100][100])
 { // This function swaps two rows of the matrix.
+.sdkjfhi;sfhslkh
 }
 
 int pivot(int i,int p,float m[100][100])
